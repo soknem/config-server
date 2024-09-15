@@ -1,3 +1,6 @@
 echo:
   message:
     text: 'Hello, world!'
+
+server:
+  port: 8081
