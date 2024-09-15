@@ -1,6 +1,6 @@
 echo:
   message:
-    text: 'Hello, world!'
+    text: 'Hello, world2!'
 
 server:
   port: 8081
