@@ -2,4 +2,4 @@ server:
   port: 8080
 echo:
   message:
-    text: 'Hello, world5!'
+    text: 'Hello, world!'
