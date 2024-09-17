@@ -4,3 +4,7 @@ server:
 echo:
   message:
     text: ${MESSAGE}
+
+spring:
+  profiles:
+    active: prod
