@@ -4,8 +4,8 @@ MESSAGE: hi dev
 
 spring:
   datasource:
-    username: postgres
-    password: postgres@123
+    username: ${postgres_username}
+    password: ${postgres_password}
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://68.183.187.158:5432/postgres_db
 
