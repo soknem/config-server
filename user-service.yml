@@ -5,5 +5,5 @@ profile:
 #  port: 8085
 echo:
   message:
-    text: "${MESSAGE}"
+    text: ${MESSAGE}
     
