@@ -3,3 +3,6 @@ server:
 echo:
   message:
     text: 'soknem123456'
+    
+profile:
+  active: dev

@@ -1,0 +1,5 @@
+server:
+  port: 8085
+echo:
+  message:
+    text: 'hello dev'
