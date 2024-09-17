@@ -4,4 +4,3 @@ server:
 echo:
   message:
     text: ${MESSAGE}
-    
