@@ -1,8 +1,9 @@
+profile:
+  active: dev
+
 server:
   port: 8085
 echo:
   message:
-    text: 'soknem123456'
+    text: "${MESSAGE}"
     
-profile:
-  active: dev
